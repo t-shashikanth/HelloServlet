@@ -6,7 +6,10 @@
  <h2>We are working with Maven Application Demo</h2> 
 
   *****************************************************
-New Line Added here
-New Line Added here
+<h2>
+<br><br>
+New Line Added here <br><br>
+New Line Added here <br><br>
+New Line Added here <br><br>
 </body>
 </html>
